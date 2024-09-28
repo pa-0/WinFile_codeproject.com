@@ -1,6 +1,6 @@
 **WinFile**
 
-Read more about it at codeproject.com.  (Link to copy of article hosted by this repository: [`WinFile`](./WinFile_CodeProject.md)
+Read more about it at codeproject.com.  (Link to copy of article hosted by this repository: [`WinFile`](./WinFile_CodeProject.md))
 
 Anything you can do with a MS-Windows system file.
 
