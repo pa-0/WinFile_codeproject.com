@@ -1,5 +1,7 @@
 **WinFile**
 
+Read more about it at codeproject.com.  (Link to copy of article hosted by this repository: [`WinFile`](./WinFile_CodeProject.md)
+
 Anything you can do with a MS-Windows system file.
 
 It's a collection of functions that you can perform on a MS-Windows file.
